@@ -1,6 +1,7 @@
 - Hello there👋 , my name is <h2>Mahamat Adoum</h2>
 - I am a computer<h4>programming student</h4>
-- I spaeck Arabic,French and English, I love Math and Physic and learn something that University doesn't teach
+- I spaeck Arabic,French and English, I love Math and Physic. I like playing soccer and watching it.
+- If I come to your house, make sure that you have tea for me, I love drinking tea :)
 - 👀 I’m interested in JavaScript/Python and SQL.
 - 🌱 I’m currently learning Puthon and C#
 - 💞️ I’m looking to collaborate on any programming challenge
