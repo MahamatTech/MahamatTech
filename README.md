@@ -23,7 +23,7 @@
 - We are currently making a website for Bradcasting Radio Television Student in Niagara College, I have it private now, but you can click on this link and see what we have been done so far :)   https://brtfprojectniagaracollege2022.azurewebsites.net/
 
 
-<h5> log in information</h5>
+<h5> Login information</h5>
 
 email: admi1@outlook.com
 password: password
