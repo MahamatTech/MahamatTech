@@ -16,17 +16,9 @@
 - C#, mvc, .Net Framework
 - Python
 - SQL
+- Bootsrap and Azure
 
 
-
-<h4> school project that we are working on it now, I will make public by April 20th</h4>
-- We are currently making a website for Bradcasting Radio Television Student in Niagara College, I have it private now, but you can click on this link and see what we have been done so far :)   https://brtfprojectniagaracollege2022.azurewebsites.net/
-
-
-<h5> Login information</h5>
-
-email: admi1@outlook.com
-password: password
 
 <!---
 MahamatTech/MahamatTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
