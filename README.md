@@ -15,7 +15,7 @@
 - JavaScript
 - C#, mvc, .Net Framework
 - Python
-- SQL and No SQL
+- SQL and NoSQL
 - Bootsrap and Azure
 
 
