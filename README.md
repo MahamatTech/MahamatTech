@@ -1,6 +1,6 @@
 - Hello there👋 , my name is <h2>Mahamat Adoum</h2>
 - I am a junior<h4> software engineer</h4>
-- I spaeck English, Arabic ,French I and love Math and Physic. I like playing soccer and watching it.
+- I speack English,French, Arabic and I love Math and Physic. I like playing soccer and watching it.
 - If I come to your house, make sure that you have tea for me, I love drinking tea :)
 - 👀 I’m passionate about technology
 - 💞️ I’m looking to collaborate on any programming challenge
