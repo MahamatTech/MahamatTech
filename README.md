@@ -16,6 +16,7 @@
 - Python
 - SQL and NoSQL 
 - Bootsrap and Azure
+- Agile methodology
 
 
 
