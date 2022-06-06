@@ -14,7 +14,7 @@
 - JavaScript
 - C#, mvc, .Net Framework and .Net Core
 - Python
-- SQL and NoSQL 
+- SQL, NoSQL and Sqlite 
 - Bootsrap and Azure
 - Agile methodology
 
