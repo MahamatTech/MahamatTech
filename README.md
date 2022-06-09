@@ -12,7 +12,7 @@
 - HTMLL
 - CSS
 - JavaScript
-- C#, mvc, .Net Framework and .Net Core
+- C# (mvc, .Net Framework and .Net Core)
 - Python
 - SQL, NoSQL and Sqlite 
 - Bootsrap and Azure
