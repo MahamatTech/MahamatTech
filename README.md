@@ -6,7 +6,7 @@ Seeking for an entry level of Software Engineer
 
 I am a full-stack developer, I love challenging myself and currently learning system design, practicing LeetCode problems and React.js
 
-* 🌍  I'm based in St.Catharines, ON Canada
+* 🌍  I'm based in Canada
 * ✉️  You can contact me at [mahamatmalgony@gmail.com](mailto:mahamatmalgony@gmail.com)
 * 🧠  I'm learning React.js, system design
 * 🤝  I'm open to collaborating on open source projects and any new project
